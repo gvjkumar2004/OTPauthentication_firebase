@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134463413515",
+    "project_id": "otp-firebase-cb36c",
+    "storage_bucket": "otp-firebase-cb36c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134463413515:android:561e227e4e17fd25acd60e",
+        "android_client_info": {
+          "package_name": "com.example.cameron_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134463413515-gv4f6rhe6d7ff46m7qo46fm8j798blkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCraZ_DzDyH_yOSDT5EYjq0Vp5Rh-YYuaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134463413515-gv4f6rhe6d7ff46m7qo46fm8j798blkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
