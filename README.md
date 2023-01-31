@@ -3,9 +3,13 @@
 A new Flutter project where in I have created a fully functional OTP authentication login page using firebase as a backend service and additionally I have even added a camera functionality in the home page. 
 
 ## Screenshots/preview
-https://user-images.githubusercontent.com/108649499/215349179-95c4297d-d647-442f-b792-252ba8c749a4.mp4
+
+https://user-images.githubusercontent.com/108649499/215710640-2b034233-8f6f-44ff-82e7-ac841542b89b.mp4
 
 This project is a starting point for a Flutter application.
+
+## wanna contribute:
+- start by cloning the repo in your cmd "git clone <src>"
 
 A few resources to get you started if this is your first Flutter project:
 
